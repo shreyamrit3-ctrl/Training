@@ -34,3 +34,4 @@ C:\EmployeeManagement\EmployeeAPI\obj\Debug\net10.0\refint\EmployeeAPI.dll
 C:\EmployeeManagement\EmployeeAPI\obj\Debug\net10.0\EmployeeAPI.pdb
 C:\EmployeeManagement\EmployeeAPI\obj\Debug\net10.0\EmployeeAPI.genruntimeconfig.cache
 C:\EmployeeManagement\EmployeeAPI\obj\Debug\net10.0\ref\EmployeeAPI.dll
+C:\EmployeeManagement\EmployeeAPI\obj\Debug\net10.0\EmployeeAPI.sourcelink.json

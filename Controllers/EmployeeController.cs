@@ -12,7 +12,7 @@ namespace EmployeeAPI.Controllers
             new Employee
             {
                 Id = 1,
-                Name = "Rahul",
+                Name = "sandeep",
                 Department = "IT",
                 Designation = "Developer",
                 Salary = 50000
@@ -20,7 +20,7 @@ namespace EmployeeAPI.Controllers
             new Employee
             {
                 Id = 2,
-                Name = "Priya",
+                Name = "sheily",
                 Department = "HR",
                 Designation = "Manager",
                 Salary = 65000
