@@ -56,5 +56,5 @@ stages:
       inputs:
         azureSubscription: 'sandeepConnection'
         appType: 'webApp'
-        appName: 'sandeepConnection'
+        appName: 'SandeepCICD'
         package: '$(System.ArtifactsDirectory)/drop'
